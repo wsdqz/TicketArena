@@ -1,0 +1,13 @@
+email_validator
+Flask
+Flask-Login
+Flask-SQLAlchemy
+Flask-WTF
+Flask-CORS
+Jinja2
+MarkupSafe
+Pillow
+python-dotenv
+SQLAlchemy
+Werkzeug
+WTForms
