@@ -1,6 +1,7 @@
 # TicketArena
 
-Event Ticketing System.
+![localhost_3000_](https://github.com/user-attachments/assets/c830b796-90bc-4536-82e0-a6515d61c124)
+
 
 ## Project Description
 
